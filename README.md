@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **PowerBI,SQL,Databricks,Tableu**
+- 💬 Ask me about **PowerBI,SQL,Databricks,Python**
 
 - 📫 How to reach me **sreekuttymanoj1995@gmail.com**
 
