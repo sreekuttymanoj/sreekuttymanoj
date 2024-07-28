@@ -1,4 +1,4 @@
-![Header](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
+![Header](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Sreekutty M T</h1>
 <h3 align="center">A passionate Data Analyst/Data Visualization Expert</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
